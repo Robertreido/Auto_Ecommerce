@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>618133232.23152602</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>CancelAllMacros</string>
+						<key>MacroActionType</key>
+						<string>Cancel</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>618133242.77307606</real>
+				<key>ModificationDate</key>
+				<real>618133335.46713996</real>
+				<key>Name</key>
+				<string>Cancel Macros</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>8</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>2304</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>C7723148-36B8-430C-88E7-1D3C8A5EC5D5</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Kiwibuy Chat</string>
+		<key>ToggleMacroUID</key>
+		<string>558B9855-583B-4911-B6A1-23DD6D1F681B</string>
+		<key>UID</key>
+		<string>A27CE2E8-C23F-4628-99CC-35826C3D6BB2</string>
+	</dict>
+</array>
+</plist>
